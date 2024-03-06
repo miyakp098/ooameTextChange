@@ -1,0 +1,10 @@
+C:\Users\81909\source\repos\ooameTextChange\bin\Debug\ooameTextChange.exe.config
+C:\Users\81909\source\repos\ooameTextChange\bin\Debug\ooameTextChange.exe
+C:\Users\81909\source\repos\ooameTextChange\bin\Debug\ooameTextChange.pdb
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.csproj.AssemblyReference.cache
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.Form1.resources
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.Properties.Resources.resources
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.csproj.GenerateResource.cache
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.csproj.CoreCompileInputs.cache
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.exe
+C:\Users\81909\source\repos\ooameTextChange\obj\Debug\ooameTextChange.pdb

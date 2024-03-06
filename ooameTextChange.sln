@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ooameTextChange", "ooameTextChange.csproj", "{D196D422-1A59-4B77-92AB-5366EC70C5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D196D422-1A59-4B77-92AB-5366EC70C5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D196D422-1A59-4B77-92AB-5366EC70C5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D196D422-1A59-4B77-92AB-5366EC70C5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D196D422-1A59-4B77-92AB-5366EC70C5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7132C2E-986B-43D7-BD31-FB14D6ECCE89}
+	EndGlobalSection
+EndGlobal
